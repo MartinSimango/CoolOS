@@ -1,9 +1,6 @@
-# TETRIS-OS: An operating system that only plays Tetris.
 
-![screenshot](images/0.png)
 
 #### Features:
-- It's Tetris.
 - 32-bit (x86)
 - Fully custom bootloader
 - Soundblaster 16 driver
